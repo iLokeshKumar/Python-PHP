@@ -1,0 +1,11 @@
+# Use this file to .env and fill in the MySQL credentials
+
+CI_ENVIRONMENT = development
+
+database.default.hostname = localhost
+database.default.database = restaurant_db
+database.default.username = root
+database.default.password =
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+database.default.port     = 3306

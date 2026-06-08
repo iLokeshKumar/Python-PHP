@@ -1,0 +1,7 @@
+INFO:     127.0.0.1:50131 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50150 - "GET /orders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50176 - "GET /orders/14 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50223 - "GET /orders HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:65291 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65291 - "GET /openapi.json HTTP/1.1" 200 OK
+     
